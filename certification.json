@@ -1,0 +1,17 @@
+{
+  "methods": [
+    "Moses",
+    "EMS",
+    "EWEF"
+  ],
+  "metrics": {
+    "auc_ems": 0.879,
+    "auc_moses": 0.9057,
+    "ewef_point": [
+      0.794,
+      0.886
+    ]
+  },
+  "project": "gds-dta",
+  "status": "CERTIFIED"
+}
